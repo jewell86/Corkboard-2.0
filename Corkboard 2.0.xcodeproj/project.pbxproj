@@ -1,0 +1,593 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F4ADDCEF2CC31FEF00DBB54A /* Corkboard_2_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDCEE2CC31FEF00DBB54A /* Corkboard_2_0App.swift */; };
+		F4ADDCF12CC31FEF00DBB54A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDCF02CC31FEF00DBB54A /* ContentView.swift */; };
+		F4ADDCF32CC31FF000DBB54A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4ADDCF22CC31FF000DBB54A /* Assets.xcassets */; };
+		F4ADDCF62CC31FF000DBB54A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4ADDCF52CC31FF000DBB54A /* Preview Assets.xcassets */; };
+		F4ADDD002CC31FF000DBB54A /* Corkboard_2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDCFF2CC31FF000DBB54A /* Corkboard_2_0Tests.swift */; };
+		F4ADDD0A2CC31FF000DBB54A /* Corkboard_2_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDD092CC31FF000DBB54A /* Corkboard_2_0UITests.swift */; };
+		F4ADDD0C2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDD0B2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F4ADDCFC2CC31FF000DBB54A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F4ADDCE32CC31FEF00DBB54A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F4ADDCEA2CC31FEF00DBB54A;
+			remoteInfo = "Corkboard 2.0";
+		};
+		F4ADDD062CC31FF000DBB54A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F4ADDCE32CC31FEF00DBB54A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F4ADDCEA2CC31FEF00DBB54A;
+			remoteInfo = "Corkboard 2.0";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F4ADDCEB2CC31FEF00DBB54A /* Corkboard 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Corkboard 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4ADDCEE2CC31FEF00DBB54A /* Corkboard_2_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0App.swift; sourceTree = "<group>"; };
+		F4ADDCF02CC31FEF00DBB54A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F4ADDCF22CC31FF000DBB54A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F4ADDCF52CC31FF000DBB54A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F4ADDCFB2CC31FF000DBB54A /* Corkboard 2.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Corkboard 2.0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4ADDCFF2CC31FF000DBB54A /* Corkboard_2_0Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0Tests.swift; sourceTree = "<group>"; };
+		F4ADDD052CC31FF000DBB54A /* Corkboard 2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Corkboard 2.0UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4ADDD092CC31FF000DBB54A /* Corkboard_2_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0UITests.swift; sourceTree = "<group>"; };
+		F4ADDD0B2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0UITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F4ADDCE82CC31FEF00DBB54A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4ADDCF82CC31FF000DBB54A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4ADDD022CC31FF000DBB54A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F4ADDCE22CC31FEF00DBB54A = {
+			isa = PBXGroup;
+			children = (
+				F4ADDCED2CC31FEF00DBB54A /* Corkboard 2.0 */,
+				F4ADDCFE2CC31FF000DBB54A /* Corkboard 2.0Tests */,
+				F4ADDD082CC31FF000DBB54A /* Corkboard 2.0UITests */,
+				F4ADDCEC2CC31FEF00DBB54A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F4ADDCEC2CC31FEF00DBB54A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F4ADDCEB2CC31FEF00DBB54A /* Corkboard 2.0.app */,
+				F4ADDCFB2CC31FF000DBB54A /* Corkboard 2.0Tests.xctest */,
+				F4ADDD052CC31FF000DBB54A /* Corkboard 2.0UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F4ADDCED2CC31FEF00DBB54A /* Corkboard 2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				F4ADDCEE2CC31FEF00DBB54A /* Corkboard_2_0App.swift */,
+				F4ADDCF02CC31FEF00DBB54A /* ContentView.swift */,
+				F4ADDCF22CC31FF000DBB54A /* Assets.xcassets */,
+				F4ADDCF42CC31FF000DBB54A /* Preview Content */,
+			);
+			path = "Corkboard 2.0";
+			sourceTree = "<group>";
+		};
+		F4ADDCF42CC31FF000DBB54A /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F4ADDCF52CC31FF000DBB54A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F4ADDCFE2CC31FF000DBB54A /* Corkboard 2.0Tests */ = {
+			isa = PBXGroup;
+			children = (
+				F4ADDCFF2CC31FF000DBB54A /* Corkboard_2_0Tests.swift */,
+			);
+			path = "Corkboard 2.0Tests";
+			sourceTree = "<group>";
+		};
+		F4ADDD082CC31FF000DBB54A /* Corkboard 2.0UITests */ = {
+			isa = PBXGroup;
+			children = (
+				F4ADDD092CC31FF000DBB54A /* Corkboard_2_0UITests.swift */,
+				F4ADDD0B2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift */,
+			);
+			path = "Corkboard 2.0UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F4ADDCEA2CC31FEF00DBB54A /* Corkboard 2.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F4ADDD0F2CC31FF000DBB54A /* Build configuration list for PBXNativeTarget "Corkboard 2.0" */;
+			buildPhases = (
+				F4ADDCE72CC31FEF00DBB54A /* Sources */,
+				F4ADDCE82CC31FEF00DBB54A /* Frameworks */,
+				F4ADDCE92CC31FEF00DBB54A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Corkboard 2.0";
+			productName = "Corkboard 2.0";
+			productReference = F4ADDCEB2CC31FEF00DBB54A /* Corkboard 2.0.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F4ADDCFA2CC31FF000DBB54A /* Corkboard 2.0Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F4ADDD122CC31FF000DBB54A /* Build configuration list for PBXNativeTarget "Corkboard 2.0Tests" */;
+			buildPhases = (
+				F4ADDCF72CC31FF000DBB54A /* Sources */,
+				F4ADDCF82CC31FF000DBB54A /* Frameworks */,
+				F4ADDCF92CC31FF000DBB54A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F4ADDCFD2CC31FF000DBB54A /* PBXTargetDependency */,
+			);
+			name = "Corkboard 2.0Tests";
+			productName = "Corkboard 2.0Tests";
+			productReference = F4ADDCFB2CC31FF000DBB54A /* Corkboard 2.0Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F4ADDD042CC31FF000DBB54A /* Corkboard 2.0UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F4ADDD152CC31FF000DBB54A /* Build configuration list for PBXNativeTarget "Corkboard 2.0UITests" */;
+			buildPhases = (
+				F4ADDD012CC31FF000DBB54A /* Sources */,
+				F4ADDD022CC31FF000DBB54A /* Frameworks */,
+				F4ADDD032CC31FF000DBB54A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F4ADDD072CC31FF000DBB54A /* PBXTargetDependency */,
+			);
+			name = "Corkboard 2.0UITests";
+			productName = "Corkboard 2.0UITests";
+			productReference = F4ADDD052CC31FF000DBB54A /* Corkboard 2.0UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F4ADDCE32CC31FEF00DBB54A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					F4ADDCEA2CC31FEF00DBB54A = {
+						CreatedOnToolsVersion = 15.3;
+					};
+					F4ADDCFA2CC31FF000DBB54A = {
+						CreatedOnToolsVersion = 15.3;
+						TestTargetID = F4ADDCEA2CC31FEF00DBB54A;
+					};
+					F4ADDD042CC31FF000DBB54A = {
+						CreatedOnToolsVersion = 15.3;
+						TestTargetID = F4ADDCEA2CC31FEF00DBB54A;
+					};
+				};
+			};
+			buildConfigurationList = F4ADDCE62CC31FEF00DBB54A /* Build configuration list for PBXProject "Corkboard 2.0" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F4ADDCE22CC31FEF00DBB54A;
+			productRefGroup = F4ADDCEC2CC31FEF00DBB54A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F4ADDCEA2CC31FEF00DBB54A /* Corkboard 2.0 */,
+				F4ADDCFA2CC31FF000DBB54A /* Corkboard 2.0Tests */,
+				F4ADDD042CC31FF000DBB54A /* Corkboard 2.0UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F4ADDCE92CC31FEF00DBB54A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4ADDCF62CC31FF000DBB54A /* Preview Assets.xcassets in Resources */,
+				F4ADDCF32CC31FF000DBB54A /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4ADDCF92CC31FF000DBB54A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4ADDD032CC31FF000DBB54A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F4ADDCE72CC31FEF00DBB54A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4ADDCF12CC31FEF00DBB54A /* ContentView.swift in Sources */,
+				F4ADDCEF2CC31FEF00DBB54A /* Corkboard_2_0App.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4ADDCF72CC31FF000DBB54A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4ADDD002CC31FF000DBB54A /* Corkboard_2_0Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4ADDD012CC31FF000DBB54A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4ADDD0C2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift in Sources */,
+				F4ADDD0A2CC31FF000DBB54A /* Corkboard_2_0UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F4ADDCFD2CC31FF000DBB54A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F4ADDCEA2CC31FEF00DBB54A /* Corkboard 2.0 */;
+			targetProxy = F4ADDCFC2CC31FF000DBB54A /* PBXContainerItemProxy */;
+		};
+		F4ADDD072CC31FF000DBB54A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F4ADDCEA2CC31FEF00DBB54A /* Corkboard 2.0 */;
+			targetProxy = F4ADDD062CC31FF000DBB54A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F4ADDD0D2CC31FF000DBB54A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F4ADDD0E2CC31FF000DBB54A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F4ADDD102CC31FF000DBB54A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Corkboard 2.0/Preview Content\"";
+				DEVELOPMENT_TEAM = L2LG8Z6WQ9;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "JewellBraden.Corkboard-2-0";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F4ADDD112CC31FF000DBB54A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Corkboard 2.0/Preview Content\"";
+				DEVELOPMENT_TEAM = L2LG8Z6WQ9;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "JewellBraden.Corkboard-2-0";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F4ADDD132CC31FF000DBB54A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2LG8Z6WQ9;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "JewellBraden.Corkboard-2-0Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Corkboard 2.0.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Corkboard 2.0";
+			};
+			name = Debug;
+		};
+		F4ADDD142CC31FF000DBB54A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2LG8Z6WQ9;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "JewellBraden.Corkboard-2-0Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Corkboard 2.0.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Corkboard 2.0";
+			};
+			name = Release;
+		};
+		F4ADDD162CC31FF000DBB54A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2LG8Z6WQ9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "JewellBraden.Corkboard-2-0UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Corkboard 2.0";
+			};
+			name = Debug;
+		};
+		F4ADDD172CC31FF000DBB54A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L2LG8Z6WQ9;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "JewellBraden.Corkboard-2-0UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Corkboard 2.0";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F4ADDCE62CC31FEF00DBB54A /* Build configuration list for PBXProject "Corkboard 2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4ADDD0D2CC31FF000DBB54A /* Debug */,
+				F4ADDD0E2CC31FF000DBB54A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F4ADDD0F2CC31FF000DBB54A /* Build configuration list for PBXNativeTarget "Corkboard 2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4ADDD102CC31FF000DBB54A /* Debug */,
+				F4ADDD112CC31FF000DBB54A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F4ADDD122CC31FF000DBB54A /* Build configuration list for PBXNativeTarget "Corkboard 2.0Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4ADDD132CC31FF000DBB54A /* Debug */,
+				F4ADDD142CC31FF000DBB54A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F4ADDD152CC31FF000DBB54A /* Build configuration list for PBXNativeTarget "Corkboard 2.0UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4ADDD162CC31FF000DBB54A /* Debug */,
+				F4ADDD172CC31FF000DBB54A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F4ADDCE32CC31FEF00DBB54A /* Project object */;
+}
