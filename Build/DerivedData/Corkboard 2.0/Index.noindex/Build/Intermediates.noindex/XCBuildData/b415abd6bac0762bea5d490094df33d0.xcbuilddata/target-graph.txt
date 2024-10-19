@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'Corkboard 2.0' in project 'Corkboard 2.0' (no dependencies)
-Target 'Corkboard 2.0' in project 'Corkboard 2.0' (no dependencies)
