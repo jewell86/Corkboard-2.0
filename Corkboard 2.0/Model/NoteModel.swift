@@ -1,7 +1,7 @@
 import Foundation
 
 struct Note: Identifiable {
-    let id: UUID
+    let id: Int
     var text: String
     var position: CGPoint
 }

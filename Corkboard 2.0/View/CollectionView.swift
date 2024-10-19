@@ -1,27 +1,34 @@
 import SwiftUI
+import UniformTypeIdentifiers
 
 struct CollectionView: View {
     @State private var notes = [
-        Note(id: UUID(), text: "Note 1", position: CGPoint(x: 50, y: 50)),
-        Note(id: UUID(), text: "Note 2", position: CGPoint(x: 200, y: 50)),
-        Note(id: UUID(), text: "Note 3", position: CGPoint(x: 50, y: 200)),
-        Note(id: UUID(), text: "Note 4", position: CGPoint(x: 200, y: 200))
+        Note(id: 1, text: "Note 1", position: CGPoint(x: 50, y: 50)),
+        Note(id: 2, text: "Note 2", position: CGPoint(x: 200, y: 50)),
+        Note(id: 3, text: "Note 3", position: CGPoint(x: 50, y: 200)),
+        Note(id: 4, text: "Note 4", position: CGPoint(x: 200, y: 200))
     ]
-
+    
     @State private var images = [
-        ImageModel(image: UIImage(named: "image1")!, position: CGPoint(x: 100, y: 100))
+        ImageModel(id: 1, image: UIImage(named: "image1")!, position: CGPoint(x: 100, y: 100))
     ]
-
+    
     @ObservedObject var viewModel = CollectionViewModel()
-
+    
     var body: some View {
         NavigationStack {
             ZStack {
                 ForEach($images) { $imageModel in
                     ImageView(viewModel: viewModel, imageModel: $imageModel)
+                        .accessibility(identifier: "imageView_\(imageModel.id)")
                 }
                 ForEach($notes) { $note in
                     NoteView(viewModel: viewModel, note: $note)
+                        .accessibility(identifier: "noteView_\(note.id)")
+                        .onTapGesture {
+                            viewModel.editingNote = note
+                            viewModel.editText = note.text
+                        }
                 }
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -31,12 +38,13 @@ struct CollectionView: View {
                 }) {
                     Image(systemName: "plus")
                 }
+                .accessibility(identifier: "addImageButton")
             }
             .sheet(isPresented: $viewModel.showingImagePicker) {
                 ImagePicker(image: $viewModel.inputImage)
                     .onDisappear {
                         if let inputImage = viewModel.inputImage {
-                            let newImageModel = ImageModel(image: inputImage, position: CGPoint(x: 100, y: 100))
+                            let newImageModel = ImageModel(id: images.count + 1, image: inputImage, position: CGPoint(x: 100, y: 100))
                             images.append(newImageModel)
                         }
                     }
@@ -64,5 +72,3 @@ struct CollectionView: View {
         }
     }
 }
-
-

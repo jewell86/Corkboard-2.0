@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ImageModel: Identifiable {
-    let id = UUID()
+    let id: Int
     var image: UIImage
     var position: CGPoint
 }

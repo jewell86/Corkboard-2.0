@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F4A149CB2CC41E330094D838 /* CollectionViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A149CA2CC41E330094D838 /* CollectionViewUITests.swift */; };
 		F4ADDCEF2CC31FEF00DBB54A /* Corkboard_2_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDCEE2CC31FEF00DBB54A /* Corkboard_2_0App.swift */; };
 		F4ADDCF12CC31FEF00DBB54A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDCF02CC31FEF00DBB54A /* ContentView.swift */; };
 		F4ADDCF32CC31FF000DBB54A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4ADDCF22CC31FF000DBB54A /* Assets.xcassets */; };
 		F4ADDCF62CC31FF000DBB54A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4ADDCF52CC31FF000DBB54A /* Preview Assets.xcassets */; };
 		F4ADDD002CC31FF000DBB54A /* Corkboard_2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDCFF2CC31FF000DBB54A /* Corkboard_2_0Tests.swift */; };
-		F4ADDD0A2CC31FF000DBB54A /* Corkboard_2_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDD092CC31FF000DBB54A /* Corkboard_2_0UITests.swift */; };
 		F4ADDD0C2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDD0B2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift */; };
 		F4ADDD1A2CC3200500DBB54A /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDD192CC3200500DBB54A /* HomePageView.swift */; };
 		F4ADDD1C2CC3200C00DBB54A /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4ADDD1B2CC3200C00DBB54A /* ViewModel.swift */; };
@@ -43,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F4A149CA2CC41E330094D838 /* CollectionViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewUITests.swift; sourceTree = "<group>"; };
 		F4ADDCEB2CC31FEF00DBB54A /* Corkboard 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Corkboard 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4ADDCEE2CC31FEF00DBB54A /* Corkboard_2_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0App.swift; sourceTree = "<group>"; };
 		F4ADDCF02CC31FEF00DBB54A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,7 +52,6 @@
 		F4ADDCFB2CC31FF000DBB54A /* Corkboard 2.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Corkboard 2.0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4ADDCFF2CC31FF000DBB54A /* Corkboard_2_0Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0Tests.swift; sourceTree = "<group>"; };
 		F4ADDD052CC31FF000DBB54A /* Corkboard 2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Corkboard 2.0UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4ADDD092CC31FF000DBB54A /* Corkboard_2_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0UITests.swift; sourceTree = "<group>"; };
 		F4ADDD0B2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Corkboard_2_0UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F4ADDD192CC3200500DBB54A /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
 		F4ADDD1B2CC3200C00DBB54A /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
@@ -114,8 +114,8 @@
 		F4ADDCED2CC31FEF00DBB54A /* Corkboard 2.0 */ = {
 			isa = PBXGroup;
 			children = (
-				F4ADDCF42CC31FF000DBB54A /* Preview Content */,
 				F4ADDCEE2CC31FEF00DBB54A /* Corkboard_2_0App.swift */,
+				F4ADDCF42CC31FF000DBB54A /* Preview Content */,
 				F4ADDD182CC31FFE00DBB54A /* Model */,
 				F4ADDD1D2CC3201700DBB54A /* View */,
 				F4ADDD1E2CC3201B00DBB54A /* ViewModel */,
@@ -142,8 +142,8 @@
 		F4ADDD082CC31FF000DBB54A /* Corkboard 2.0UITests */ = {
 			isa = PBXGroup;
 			children = (
-				F4ADDD092CC31FF000DBB54A /* Corkboard_2_0UITests.swift */,
 				F4ADDD0B2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift */,
+				F4A149CA2CC41E330094D838 /* CollectionViewUITests.swift */,
 			);
 			path = "Corkboard 2.0UITests";
 			sourceTree = "<group>";
@@ -336,8 +336,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4A149CB2CC41E330094D838 /* CollectionViewUITests.swift in Sources */,
 				F4ADDD0C2CC31FF000DBB54A /* Corkboard_2_0UITestsLaunchTests.swift in Sources */,
-				F4ADDD0A2CC31FF000DBB54A /* Corkboard_2_0UITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

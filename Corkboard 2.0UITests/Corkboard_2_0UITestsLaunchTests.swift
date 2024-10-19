@@ -1,10 +1,3 @@
-//
-//  Corkboard_2_0UITestsLaunchTests.swift
-//  Corkboard 2.0UITests
-//
-//  Created by dxek on 10/18/24.
-//
-
 import XCTest
 
 final class Corkboard_2_0UITestsLaunchTests: XCTestCase {
