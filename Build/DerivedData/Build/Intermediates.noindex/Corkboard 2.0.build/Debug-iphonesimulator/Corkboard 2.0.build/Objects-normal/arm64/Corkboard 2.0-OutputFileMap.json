@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard 2.0-master.dia",
+    "emit-module-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard 2.0-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard 2.0-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard 2.0-master.swiftdeps"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/Corkboard_2_0App.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/Corkboard_2_0App~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/Model/CollectionViewModel.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionViewModel~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/Model/ImageModel.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageModel~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/Model/NoteModel.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteModel~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/View/CollectionView.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/CollectionView~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/View/ContentView.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/View/HomePageView.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/HomePageView~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/View/ImagePicker.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImagePicker~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/View/ImageView.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ImageView~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/View/NoteView.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/NoteView~partial.swiftmodule"
+  },
+  "/Users/dxek/Documents/Corkboard 2.0/Corkboard 2.0/ViewModel/ViewModel.swift" : {
+    "const-values" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.swiftconstvalues",
+    "dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.d",
+    "diagnostics" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.dia",
+    "index-unit-output-path" : "/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.o",
+    "llvm-bc" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.bc",
+    "object" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.o",
+    "swift-dependencies" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel.swiftdeps",
+    "swiftmodule" : "/Users/dxek/Documents/Corkboard 2.0/Build/DerivedData/Build/Intermediates.noindex/Corkboard 2.0.build/Debug-iphonesimulator/Corkboard 2.0.build/Objects-normal/arm64/ViewModel~partial.swiftmodule"
+  }
+}
